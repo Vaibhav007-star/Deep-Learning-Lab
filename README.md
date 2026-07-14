@@ -4,13 +4,13 @@ A simple implementation of the **Perceptron Algorithm** in Python using **NumPy*
 
 ---
 
-## 📌 Objective
+##  Objective
 
 To implement a simple Perceptron model using NumPy and train it to classify the outputs of an AND gate.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - NumPy
@@ -18,7 +18,7 @@ To implement a simple Perceptron model using NumPy and train it to classify the 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Deep-Learning-Lab/
@@ -29,7 +29,7 @@ Deep-Learning-Lab/
 
 ---
 
-## 🚀 Step-by-Step Setup
+##  Step-by-Step Setup
 
 ### 1. Clone the Repository
 
@@ -79,7 +79,7 @@ python Lab-1.py
 
 ---
 
-## 📖 Program Description
+##  Program Description
 
 The program performs the following steps:
 
@@ -92,7 +92,7 @@ The program performs the following steps:
 
 ---
 
-## 📊 Input Dataset
+##  Input Dataset
 
 | Input 1 | Input 2 | Expected Output |
 |---------:|---------:|----------------:|
@@ -103,7 +103,7 @@ The program performs the following steps:
 
 ---
 
-## ✅ Expected Output
+##  Expected Output
 
 ```
 Final Weights: [0.2 0.1]
@@ -120,7 +120,7 @@ Input: [1 1] -> Output: 1
 
 ---
 
-## 📚 Concepts Covered
+##  Concepts Covered
 
 - Perceptron
 - Binary Classification
@@ -131,10 +131,10 @@ Input: [1 1] -> Output: 1
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Vaibhav**
 
-Deep Learning Laboratory – College Practical
+Deep Learning Laboratory 
 
 ---
